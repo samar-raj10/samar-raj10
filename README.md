@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <h1 align = "center">Hi👋, I'm Samar Raj</h1>
 <h3 align = "center">Aspiring Software Engineer | Tech Explorer | Problem Solver</h3>
+
+- 🌱 I’m currently learning **DSA in C++**, **Web Development**, and exploring **Open Source**
+- 💡 I love solving real-world problems through code
+- 💻 My dream is to build tech that impacts **India at scale**
+- 👨‍💻 I’m a Computer Science student at **Manipal University Jaipur**
+- 📫 How to reach me: [Email](mailto:rsamar043@gmail.com) | [LinkedIn](https://linkedin.com/in/samar-raj-071263316)
