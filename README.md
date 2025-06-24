@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋 
 
 <!--
 **samar-raj10/samar-raj10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align = "center">Hi👋, I'm Samar Raj</h1>
+<h3 align = "center">Aspiring Software Engineer | Tech Explorer | Problem Solver</h3>
