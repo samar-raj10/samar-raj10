@@ -24,3 +24,12 @@ Here are some ideas to get you started:
 - 💻 My dream is to build tech that impacts **India at scale**
 - 👨‍💻 I’m a Computer Science student at **Manipal University Jaipur**
 - 📫 How to reach me: [Email](mailto:rsamar043@gmail.com) | [LinkedIn](https://linkedin.com/in/samar-raj-071263316)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</p>
